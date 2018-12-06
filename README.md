@@ -1,1 +1,0 @@
-# xabialabs-elasticsearch
